@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agrimishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrimishra/)
 [![Gmail](https://img.shields.io/badge/Gmail-sameerartimishra1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerartimishra1994@gmail.com)
-[![Portfolio](https://img.shields.io/badge/CodeSync-Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codesync-silk.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FUNCTIONCALL-AGRIM&color=0A66C2&style=for-the-badge)
 
