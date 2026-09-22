@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Agrim Mishra!
 
-### 🚀 Full Stack MERN Developer | Data Scientist | AI & ML Enthusiast
+### 🚀 Full Stack MERN Developer | Data & AI & ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agrimishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrimishra/)
 [![Gmail](https://img.shields.io/badge/Gmail-sameerartimishra1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerartimishra1994@gmail.com)
@@ -25,10 +25,9 @@ const agrim = {
     frontend:  ["React.js", "Vite", "TailwindCSS", "DaisyUI"],
     backend:   ["Node.js", "Express.js", "REST APIs"],
     database:  ["MongoDB", "Mongoose", "SQL"],
-    aiml:      ["Python", "Machine Learning", "Gemini AI", "SHAP"],
-    tools:     ["Git", "GitHub", "Postman", "Docker"],
+    aiml:      ["Python", "Machine Learning", "Gemini AI"],
+    tools:     ["Git", "GitHub", "Postman"],
   },
-  currentlyLearning: "DSA @ PW Skills",
   openTo: ["Internships 💼", "Full-time Jobs 🏢", "Freelance Projects 🤝"],
   funFact: "I build AI tools that help people get jobs... while looking for one myself 😄"
 };
@@ -109,20 +108,6 @@ const agrim = {
 
 **Data Science Intern @ Plasmid** *(Nov 2025 – Jan 2026)*
 > Worked on real-world data science problems using Python, ML & Data Analysis. Performance rated as commendable.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Agrim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FUNCTIONCALL-AGRIM&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FUNCTIONCALL-AGRIM&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FUNCTIONCALL-AGRIM&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
