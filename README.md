@@ -25,7 +25,7 @@ const agrim = {
     frontend:  ["React.js", "Vite", "TailwindCSS", "DaisyUI"],
     backend:   ["Node.js", "Express.js", "REST APIs"],
     database:  ["MongoDB", "Mongoose", "SQL"],
-    aiml:      ["Python", "Machine Learning", "Gemini AI"],
+    aiml:      ["AI", Machine Learning", "Gemini AI"],
     tools:     ["Git", "GitHub", "Postman"],
   },
   openTo: ["Internships 💼", "Full-time Jobs 🏢", "Freelance Projects 🤝"],
@@ -81,7 +81,7 @@ const agrim = {
 
 - 🟠 **Postman API Fundamentals** — Postman
 - 🔵 **IBM Data Science & Artificial Intelligence** — IBM
-- 🟢 **MERN Stack Development** — L&T EduTech
+- 🟢 **MERN Stack Development** — L&T EduTech & Shreyians Coding School
 - 🟡 **Data Structures & Algorithms** — PW Skills *(In Progress)*
 
 ---
